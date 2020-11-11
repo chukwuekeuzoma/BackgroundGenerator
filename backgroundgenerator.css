@@ -1,0 +1,12 @@
+body{
+    text-align: center;
+    font-family: "papyrus",cursive;
+    color:indigo;
+    letter-spacing:0.5em;
+    text-transform: uppercase;
+    background:linear-gradient(to right,purple,pink);
+}
+h1,h2{
+    font-family: 'fantasy',cursive;
+    color:white;
+}
